@@ -43,7 +43,6 @@ mvn clean package
 
 ```bash
 mvn exec:java@async -DACCOUNT_HOST=YOUR_COSMOS_DB_HOSTNAME -DACCOUNT_KEY=YOUR_COSMOS_DB_MASTER_KEY
-mvn exec:java@async -DACCOUNT_HOST=https://rdsqlsink.documents.azure.com:443/ -DACCOUNT_KEY=xnPzWC3Db0vo0Pme7oWlIzUIdCa8fdHq4WHdgtBbhP4JBUHEfFd3LduDF201xQbO4rj18LZai70c53ptondpRg==
 ```
 
 ## About the code
