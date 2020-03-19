@@ -28,7 +28,7 @@ Azure Cosmos DB is a globally distributed multi-model database. One of the suppo
 * First clone this repository using
 
 ```bash
-git clone https://github.com/Azure-Samples/azure-cosmos-java-getting-started.git
+git clone https://github.com/Raghav-Public/azure-cosmos-java-async.git
 ```
 
 * From a command prompt or shell, run the following command to compile and resolve dependencies.
